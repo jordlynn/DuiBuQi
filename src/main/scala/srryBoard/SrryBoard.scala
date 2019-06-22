@@ -1,0 +1,5 @@
+package srryBoard
+
+object SrryBoard {
+
+}
